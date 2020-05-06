@@ -1,0 +1,19 @@
+
+
+Required Softwares :
+	XAMPP - MySQL DataBase,
+	NetBeans - RMI Server, desktop  Client, DummySensorApp
+	VS Code - REST API and Web Client
+
+
+
+Installation
+	1. install required Softwares.
+	2. start XAMPP
+	3. Open the folder "FireSensor" in NetBeans and resolve problems, and first run "server.java" file then "Dashboard.java" file
+	4. open the "DummySensor" folder in NetBeans and run "SensorApp".	
+	5. open the folder "REST API" in VS Cose and run "npm install", and then run "nodemon server.js"
+	6. open the folder "WebClient" in VS Cose and run "npm install", and then run "npm start"
+
+
+
